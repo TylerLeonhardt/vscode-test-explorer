@@ -64,6 +64,9 @@ Currently the following Test Adapters are available:
 * [PHPUnit Test Explorer](https://marketplace.visualstudio.com/items?itemName=recca0120.vscode-phpunit)
 * [PHP Tools for VSCode](https://marketplace.visualstudio.com/items?itemName=DEVSENSE.phptools-vscode)
 
+### PowerShell
+* [Pester Test Explorer](https://marketplace.visualstudio.com/items?itemName=TylerLeonhardt.vscode-pester-test-adapter)
+
 ### REST/GraphQL
 
 * [Ply](https://marketplace.visualstudio.com/items?itemName=ply-ct.vscode-ply)
